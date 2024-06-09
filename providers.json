@@ -25,7 +25,7 @@
     },
     "save_config_path": "./config.json",
     "auto_backup": false,
-    "exclude_protocol":"ssr",
+    "exclude_protocol":"",
     "config_template": "",
     "Only-nodes": false
 }
